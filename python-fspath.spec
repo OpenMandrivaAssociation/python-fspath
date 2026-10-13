@@ -1,6 +1,6 @@
 Name:		python-fspath
 Version:	20230629
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/f/fspath/fspath-%{version}.tar.gz
 Summary:	semantic path names and more
 URL:		https://pypi.org/project/fspath/
